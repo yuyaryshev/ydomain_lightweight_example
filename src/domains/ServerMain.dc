@@ -1,0 +1,14 @@
+domain "a73e24f1-c68b-47e4-bbcb-92585e04c653" ServerMain dataSides(server) {
+	fields {
+        field scalar "afeef3bb-a587-4a40-8a59-649c93031dc8" testStr string;
+        };
+	prepareChange CODE{
+	    if(false) // destSession
+	        return undefined;
+		}CODE;
+};
+
+
+
+
+

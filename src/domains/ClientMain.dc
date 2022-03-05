@@ -1,0 +1,22 @@
+domain "a73e24f0-c68b-47e4-bbcb-92585e04c653" ClientMain dataSides(client) {
+	fields {
+        field scalar "a9472e43-a560-417b-b577-f802558485e7" session link(Session);
+        field scalar "9268872d-dce6-4595-b863-90c776d549d2" globalError string;
+        field scalar "a11f6c91-7c3d-44f0-984b-60437b55b717" login string;
+        field scalar "afeef3bb-a577-4a40-8a59-649c93031dc8" pass string;
+        field scalar "ccd28c5c-4c36-4182-9a71-037af79e1e5e" project string;
+        field scalar "7dd49fb8-3f8d-4219-8792-40947d192970" drawerOpen boolean;
+        field scalar "7dd49fb8-3f8d-4219-8792-40947d192971" projectsDialog boolean;
+        field scalar "0ddad92b-8d70-43c1-ae0b-8ce29dabcdba" t string;
+        field scalar "0ddad92b-8d70-43c1-ae0b-8ce28dabcdba" a string;
+        };
+	prepareChange CODE{
+	    if(false) // destSession
+	        return undefined;
+		}CODE;
+};
+
+
+
+
+

@@ -1,0 +1,5 @@
+{
+    "targetPath": "..",
+    "deleteAllInTarget": true,
+	"compilationMode": "lightweight"
+}

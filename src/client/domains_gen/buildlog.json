@@ -1,0 +1,11 @@
+{
+    "files": [
+        "ClientMain.ts",
+        "Session.ts",
+        "Person.ts",
+        "ServerMain.ts",
+        "User.ts",
+        "Workspace.ts",
+        "index.ts"
+    ]
+}

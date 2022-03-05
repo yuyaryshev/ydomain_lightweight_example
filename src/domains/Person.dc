@@ -1,0 +1,12 @@
+domain "3d5c8d20-3024-4537-8dca-64cd241b9a92" Person dataSides(server, client) {
+    fields {
+        field scalar "90087d58-fb7e-45cb-a685-b1ddd326b8fd" name string;
+        field scalar "5488d34d-4787-4a4a-b1a7-a2b49b8a092b" a string;
+        field scalar "b57a76d9-c2ff-49f0-a564-33220c68bfd0" b string;
+        field scalar "5c98d5f0-c2e4-4bcf-826b-7484a051a562" client_only_field dataSides(client) string;
+    //    field scalar login link(IdeUser);
+    };
+	prepareChange CODE{
+    	// No checks in prepareChange
+		}CODE;
+};

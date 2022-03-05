@@ -1,0 +1,19 @@
+domain "08ea9172-85d6-43f0-9309-3a49aeab0d24" Workspace {
+	fields {
+	    use(name);
+        field scalar "fba3f615-9450-4e28-ae6f-9670e4675b27" user link(User);
+	};
+	
+	prepareChange CODE{
+	    if(false)
+	        return undefined;
+		}CODE;
+};
+
+rootFunction "e08fe1d5-6947-4c8e-b710-14bbe7395880" allClientObjects CODE{
+    (objectRoot:ObjectRoot, session: Ysocket): DomainObject[] {
+            // if(!session.workspace)
+                return [];
+            // return [...session.workspace.projects];
+        }
+    }CODE;

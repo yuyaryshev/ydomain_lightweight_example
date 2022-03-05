@@ -1,0 +1,124 @@
+[
+    {
+        "id": "308bb027-d9ea-442c-befc-60a0e1e828ce",
+        "name": "Session",
+        "fields": [
+            {
+                "id": "6ab87fff-934f-45c3-b05a-a14cf7ddd568",
+                "name": "sessionId",
+                "type": "string",
+                "dbNativeType": "string",
+                "defaultValue": "",
+                "nullable": true
+            },
+            {
+                "id": "4e5248a1-ebf0-405a-bf64-3b45192a9587",
+                "name": "login",
+                "type": "string",
+                "dbNativeType": "string",
+                "defaultValue": "",
+                "nullable": true
+            },
+            {
+                "id": "9df87f3a-472b-4446-9018-f6acb08db2e0",
+                "name": "connected",
+                "type": "number",
+                "dbNativeType": "number",
+                "defaultValue": "0",
+                "nullable": true
+            },
+            {
+                "id": "12e6208d-9d30-4772-8131-ef83494ab0a6",
+                "name": "connecting",
+                "type": "number",
+                "dbNativeType": "number",
+                "defaultValue": "0",
+                "nullable": true
+            },
+            {
+                "id": "ead09e7b-d8e0-485d-9e7b-507bcceb6569",
+                "name": "authed",
+                "type": "number",
+                "dbNativeType": "number",
+                "defaultValue": "0",
+                "nullable": true
+            },
+            {
+                "id": "590d1e7b-8a31-4d3d-a9e5-a3ac09f98ddb",
+                "name": "authPending",
+                "type": "number",
+                "dbNativeType": "number",
+                "defaultValue": "0",
+                "nullable": true
+            },
+            {
+                "id": "125642ba-5d3f-4e55-8fd4-04b085862675",
+                "name": "authError",
+                "type": "string",
+                "dbNativeType": "string",
+                "defaultValue": "",
+                "nullable": true
+            },
+            {
+                "id": "d03853b5-dff2-4729-bfbe-6007b173e42e",
+                "name": "user",
+                "type": "string",
+                "dbNativeType": "string",
+                "defaultValue": "",
+                "nullable": true
+            },
+            {
+                "id": "4a900989-e078-4d2f-b2c1-6edd034c6b6e",
+                "name": "connectionErrorStr",
+                "type": "string",
+                "dbNativeType": "string",
+                "defaultValue": "",
+                "nullable": true
+            }
+        ]
+    },
+    {
+        "id": "f86d1bef-4d1c-4916-af92-17318acea94e",
+        "name": "User",
+        "fields": [
+            {
+                "id": "481611dc-e186-4add-a0b0-b6ee6d74e9ff",
+                "name": "login",
+                "type": "string",
+                "dbNativeType": "string",
+                "defaultValue": "",
+                "nullable": true
+            },
+            {
+                "id": "ca620c80-99cd-4e44-9211-cb24032ef049",
+                "name": "workspace",
+                "type": "string",
+                "dbNativeType": "string",
+                "defaultValue": "",
+                "nullable": true
+            }
+        ]
+    },
+    {
+        "id": "08ea9172-85d6-43f0-9309-3a49aeab0d24",
+        "name": "Workspace",
+        "fields": [
+            {
+                "id": "38761a9d-feba-4db8-b3a6-be7b48130e7a",
+                "name": "name",
+                "type": "string",
+                "dbNativeType": "string",
+                "defaultValue": "",
+                "nullable": true
+            },
+            {
+                "id": "fba3f615-9450-4e28-ae6f-9670e4675b27",
+                "name": "user",
+                "type": "string",
+                "dbNativeType": "string",
+                "defaultValue": "",
+                "nullable": true
+            }
+        ]
+    }
+]

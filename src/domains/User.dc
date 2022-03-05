@@ -1,0 +1,11 @@
+domain "f86d1bef-4d1c-4916-af92-17318acea94e" User {
+	fields {
+        field scalar "481611dc-e186-4add-a0b0-b6ee6d74e9ff" login string;
+        // field array tokens: AuthToken;
+        field scalar "ca620c80-99cd-4e44-9211-cb24032ef049" workspace link(Workspace);
+	};
+	prepareChange CODE{
+	    if(false) // destSession
+	        return undefined;
+		}CODE;
+};
