@@ -4,8 +4,11 @@
         "Session.ts",
         "Person.ts",
         "ServerMain.ts",
+        "Task.ts",
         "User.ts",
         "Workspace.ts",
+        "runtimeMeta.ts",
+        "db_meta.json",
         "index.ts"
     ]
 }

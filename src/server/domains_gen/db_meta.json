@@ -78,6 +78,68 @@
         ]
     },
     {
+        "id": "9564b712-4d9b-4bd8-88f2-0811037270b5",
+        "name": "Task",
+        "fields": [
+            {
+                "id": "134827b0-9ad4-4fbe-b796-dbe22daad08f",
+                "name": "name",
+                "type": "string",
+                "dbNativeType": "string",
+                "defaultValue": "",
+                "nullable": true
+            },
+            {
+                "id": "e17cf33c-8183-4e89-86b0-a859d794b8c4",
+                "name": "k",
+                "type": "string",
+                "dbNativeType": "string",
+                "defaultValue": "",
+                "nullable": true
+            },
+            {
+                "id": "7966667c-688f-4f6f-aa28-74f3cee01181",
+                "name": "a",
+                "type": "string",
+                "dbNativeType": "string",
+                "defaultValue": "",
+                "nullable": true
+            },
+            {
+                "id": "e17cf33c-8183-4e89-86b0-a859d794b9c4",
+                "name": "b",
+                "type": "string",
+                "dbNativeType": "string",
+                "defaultValue": "",
+                "nullable": true
+            },
+            {
+                "id": "e17cf33c-8183-4e89-86b0-a859d794b3c4",
+                "name": "t",
+                "type": "string",
+                "dbNativeType": "string",
+                "defaultValue": "",
+                "nullable": true
+            },
+            {
+                "id": "4936f3ff-8496-488f-b3ec-7cc5c0267a33",
+                "name": "children",
+                "type": "string",
+                "dbNativeType": "string",
+                "defaultValue": "",
+                "nullable": true
+            },
+            {
+                "id": "134827b0-9ad4-4fbe-b796-dbe22daad18f",
+                "name": "assignee",
+                "type": "string",
+                "dbNativeType": "string",
+                "defaultValue": "",
+                "nullable": true
+            }
+        ]
+    },
+    {
         "id": "f86d1bef-4d1c-4916-af92-17318acea94e",
         "name": "User",
         "fields": [

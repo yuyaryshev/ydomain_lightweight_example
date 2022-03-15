@@ -1,1 +1,747 @@
-[]
+[
+ {
+  "cpl": 272,
+  "filePath": "src\\client\\ClientEnv.ts",
+  "pos": 2136
+ },
+ {
+  "cpl": 125,
+  "filePath": "src\\client\\ClientEnv.ts",
+  "pos": 2249
+ },
+ {
+  "cpl": 26,
+  "filePath": "src\\client\\ClientEnv.ts",
+  "pos": 2333
+ },
+ {
+  "cpl": 120,
+  "filePath": "src\\client\\ClientEnv.ts",
+  "pos": 2442
+ },
+ {
+  "cpl": 33,
+  "filePath": "src\\client\\ClientEnv.ts",
+  "pos": 2780
+ },
+ {
+  "cpl": 211,
+  "filePath": "src\\client\\ClientEnv.ts",
+  "pos": 3405
+ },
+ {
+  "cpl": 34,
+  "filePath": "src\\client\\ClientEnv.ts",
+  "pos": 3986
+ },
+ {
+  "cpl": 122,
+  "filePath": "src\\client\\ClientEnv.ts",
+  "pos": 4115
+ },
+ {
+  "cpl": 23,
+  "filePath": "src\\client\\ClientEnv.ts",
+  "pos": 4196
+ },
+ {
+  "cpl": 24,
+  "filePath": "src\\client\\ClientEnv.ts",
+  "pos": 4327
+ },
+ {
+  "cpl": 25,
+  "filePath": "src\\client\\ClientEnv.ts",
+  "pos": 4668
+ },
+ {
+  "cpl": 27,
+  "filePath": "src\\client\\domains_gen\\ClientMain.ts",
+  "pos": 2517
+ },
+ {
+  "cpl": 141,
+  "filePath": "src\\client\\domains_gen\\ClientMain.ts",
+  "pos": 3263
+ },
+ {
+  "cpl": 142,
+  "filePath": "src\\client\\domains_gen\\ClientMain.ts",
+  "pos": 3682
+ },
+ {
+  "cpl": 143,
+  "filePath": "src\\client\\domains_gen\\ClientMain.ts",
+  "pos": 3797
+ },
+ {
+  "cpl": 144,
+  "filePath": "src\\client\\domains_gen\\ClientMain.ts",
+  "pos": 4463
+ },
+ {
+  "cpl": 145,
+  "filePath": "src\\client\\domains_gen\\ClientMain.ts",
+  "pos": 4926
+ },
+ {
+  "cpl": 146,
+  "filePath": "src\\client\\domains_gen\\ClientMain.ts",
+  "pos": 6455
+ },
+ {
+  "cpl": 147,
+  "filePath": "src\\client\\domains_gen\\index.ts",
+  "pos": 2598
+ },
+ {
+  "cpl": 148,
+  "filePath": "src\\client\\domains_gen\\index.ts",
+  "pos": 2924
+ },
+ {
+  "cpl": 149,
+  "filePath": "src\\client\\domains_gen\\index.ts",
+  "pos": 3309
+ },
+ {
+  "cpl": 150,
+  "filePath": "src\\client\\domains_gen\\index.ts",
+  "pos": 4482
+ },
+ {
+  "cpl": 151,
+  "filePath": "src\\client\\domains_gen\\index.ts",
+  "pos": 6100
+ },
+ {
+  "cpl": 152,
+  "filePath": "src\\client\\domains_gen\\Person.ts",
+  "pos": 2279
+ },
+ {
+  "cpl": 153,
+  "filePath": "src\\client\\domains_gen\\Person.ts",
+  "pos": 3001
+ },
+ {
+  "cpl": 154,
+  "filePath": "src\\client\\domains_gen\\Person.ts",
+  "pos": 3404
+ },
+ {
+  "cpl": 155,
+  "filePath": "src\\client\\domains_gen\\Person.ts",
+  "pos": 3515
+ },
+ {
+  "cpl": 1,
+  "filePath": "src\\client\\domains_gen\\Person.ts",
+  "pos": 4157
+ },
+ {
+  "cpl": 2,
+  "filePath": "src\\client\\domains_gen\\Person.ts",
+  "pos": 4604
+ },
+ {
+  "cpl": 3,
+  "filePath": "src\\client\\domains_gen\\Person.ts",
+  "pos": 6211
+ },
+ {
+  "cpl": 4,
+  "filePath": "src\\client\\domains_gen\\ServerMain.ts",
+  "pos": 2251
+ },
+ {
+  "cpl": 5,
+  "filePath": "src\\client\\domains_gen\\ServerMain.ts",
+  "pos": 2997
+ },
+ {
+  "cpl": 6,
+  "filePath": "src\\client\\domains_gen\\ServerMain.ts",
+  "pos": 3416
+ },
+ {
+  "cpl": 7,
+  "filePath": "src\\client\\domains_gen\\ServerMain.ts",
+  "pos": 3531
+ },
+ {
+  "cpl": 8,
+  "filePath": "src\\client\\domains_gen\\ServerMain.ts",
+  "pos": 4197
+ },
+ {
+  "cpl": 9,
+  "filePath": "src\\client\\domains_gen\\ServerMain.ts",
+  "pos": 4660
+ },
+ {
+  "cpl": 10,
+  "filePath": "src\\client\\domains_gen\\ServerMain.ts",
+  "pos": 6189
+ },
+ {
+  "cpl": 11,
+  "filePath": "src\\client\\domains_gen\\Session.ts",
+  "pos": 2974
+ },
+ {
+  "cpl": 12,
+  "filePath": "src\\client\\domains_gen\\Session.ts",
+  "pos": 3702
+ },
+ {
+  "cpl": 13,
+  "filePath": "src\\client\\domains_gen\\Session.ts",
+  "pos": 4109
+ },
+ {
+  "cpl": 14,
+  "filePath": "src\\client\\domains_gen\\Session.ts",
+  "pos": 4221
+ },
+ {
+  "cpl": 15,
+  "filePath": "src\\client\\domains_gen\\Session.ts",
+  "pos": 4869
+ },
+ {
+  "cpl": 16,
+  "filePath": "src\\client\\domains_gen\\Session.ts",
+  "pos": 5320
+ },
+ {
+  "cpl": 17,
+  "filePath": "src\\client\\domains_gen\\Session.ts",
+  "pos": 6979
+ },
+ {
+  "cpl": 18,
+  "filePath": "src\\client\\domains_gen\\Session.ts",
+  "pos": 7076
+ },
+ {
+  "cpl": 19,
+  "filePath": "src\\client\\domains_gen\\Task.ts",
+  "pos": 2388
+ },
+ {
+  "cpl": 20,
+  "filePath": "src\\client\\domains_gen\\Task.ts",
+  "pos": 3081
+ },
+ {
+  "cpl": 21,
+  "filePath": "src\\client\\domains_gen\\Task.ts",
+  "pos": 3462
+ },
+ {
+  "cpl": 22,
+  "filePath": "src\\client\\domains_gen\\Task.ts",
+  "pos": 3571
+ },
+ {
+  "cpl": 158,
+  "filePath": "src\\client\\domains_gen\\Task.ts",
+  "pos": 4201
+ },
+ {
+  "cpl": 159,
+  "filePath": "src\\client\\domains_gen\\Task.ts",
+  "pos": 4640
+ },
+ {
+  "cpl": 160,
+  "filePath": "src\\client\\domains_gen\\Task.ts",
+  "pos": 5958
+ },
+ {
+  "cpl": 161,
+  "filePath": "src\\client\\domains_gen\\User.ts",
+  "pos": 2263
+ },
+ {
+  "cpl": 162,
+  "filePath": "src\\client\\domains_gen\\User.ts",
+  "pos": 2956
+ },
+ {
+  "cpl": 163,
+  "filePath": "src\\client\\domains_gen\\User.ts",
+  "pos": 3337
+ },
+ {
+  "cpl": 164,
+  "filePath": "src\\client\\domains_gen\\User.ts",
+  "pos": 3446
+ },
+ {
+  "cpl": 165,
+  "filePath": "src\\client\\domains_gen\\User.ts",
+  "pos": 4076
+ },
+ {
+  "cpl": 166,
+  "filePath": "src\\client\\domains_gen\\User.ts",
+  "pos": 4515
+ },
+ {
+  "cpl": 167,
+  "filePath": "src\\client\\domains_gen\\User.ts",
+  "pos": 5908
+ },
+ {
+  "cpl": 168,
+  "filePath": "src\\client\\domains_gen\\Workspace.ts",
+  "pos": 2317
+ },
+ {
+  "cpl": 169,
+  "filePath": "src\\client\\domains_gen\\Workspace.ts",
+  "pos": 3057
+ },
+ {
+  "cpl": 170,
+  "filePath": "src\\client\\domains_gen\\Workspace.ts",
+  "pos": 3472
+ },
+ {
+  "cpl": 171,
+  "filePath": "src\\client\\domains_gen\\Workspace.ts",
+  "pos": 3586
+ },
+ {
+  "cpl": 172,
+  "filePath": "src\\client\\domains_gen\\Workspace.ts",
+  "pos": 4246
+ },
+ {
+  "cpl": 173,
+  "filePath": "src\\client\\domains_gen\\Workspace.ts",
+  "pos": 4705
+ },
+ {
+  "cpl": 174,
+  "filePath": "src\\client\\domains_gen\\Workspace.ts",
+  "pos": 6089
+ },
+ {
+  "cpl": 175,
+  "filePath": "src\\server\\domains_gen\\ClientMain.ts",
+  "pos": 2517
+ },
+ {
+  "cpl": 176,
+  "filePath": "src\\server\\domains_gen\\ClientMain.ts",
+  "pos": 3263
+ },
+ {
+  "cpl": 177,
+  "filePath": "src\\server\\domains_gen\\ClientMain.ts",
+  "pos": 3682
+ },
+ {
+  "cpl": 178,
+  "filePath": "src\\server\\domains_gen\\ClientMain.ts",
+  "pos": 3797
+ },
+ {
+  "cpl": 179,
+  "filePath": "src\\server\\domains_gen\\ClientMain.ts",
+  "pos": 4463
+ },
+ {
+  "cpl": 180,
+  "filePath": "src\\server\\domains_gen\\ClientMain.ts",
+  "pos": 4926
+ },
+ {
+  "cpl": 181,
+  "filePath": "src\\server\\domains_gen\\ClientMain.ts",
+  "pos": 6455
+ },
+ {
+  "cpl": 182,
+  "filePath": "src\\server\\domains_gen\\index.ts",
+  "pos": 2598
+ },
+ {
+  "cpl": 183,
+  "filePath": "src\\server\\domains_gen\\index.ts",
+  "pos": 2924
+ },
+ {
+  "cpl": 184,
+  "filePath": "src\\server\\domains_gen\\index.ts",
+  "pos": 3309
+ },
+ {
+  "cpl": 185,
+  "filePath": "src\\server\\domains_gen\\index.ts",
+  "pos": 4482
+ },
+ {
+  "cpl": 186,
+  "filePath": "src\\server\\domains_gen\\index.ts",
+  "pos": 6100
+ },
+ {
+  "cpl": 187,
+  "filePath": "src\\server\\domains_gen\\Person.ts",
+  "pos": 2238
+ },
+ {
+  "cpl": 188,
+  "filePath": "src\\server\\domains_gen\\Person.ts",
+  "pos": 2960
+ },
+ {
+  "cpl": 189,
+  "filePath": "src\\server\\domains_gen\\Person.ts",
+  "pos": 3363
+ },
+ {
+  "cpl": 190,
+  "filePath": "src\\server\\domains_gen\\Person.ts",
+  "pos": 3474
+ },
+ {
+  "cpl": 191,
+  "filePath": "src\\server\\domains_gen\\Person.ts",
+  "pos": 4116
+ },
+ {
+  "cpl": 192,
+  "filePath": "src\\server\\domains_gen\\Person.ts",
+  "pos": 4563
+ },
+ {
+  "cpl": 193,
+  "filePath": "src\\server\\domains_gen\\Person.ts",
+  "pos": 5955
+ },
+ {
+  "cpl": 194,
+  "filePath": "src\\server\\domains_gen\\ServerMain.ts",
+  "pos": 2251
+ },
+ {
+  "cpl": 195,
+  "filePath": "src\\server\\domains_gen\\ServerMain.ts",
+  "pos": 2997
+ },
+ {
+  "cpl": 196,
+  "filePath": "src\\server\\domains_gen\\ServerMain.ts",
+  "pos": 3416
+ },
+ {
+  "cpl": 197,
+  "filePath": "src\\server\\domains_gen\\ServerMain.ts",
+  "pos": 3531
+ },
+ {
+  "cpl": 198,
+  "filePath": "src\\server\\domains_gen\\ServerMain.ts",
+  "pos": 4197
+ },
+ {
+  "cpl": 199,
+  "filePath": "src\\server\\domains_gen\\ServerMain.ts",
+  "pos": 4660
+ },
+ {
+  "cpl": 200,
+  "filePath": "src\\server\\domains_gen\\ServerMain.ts",
+  "pos": 6189
+ },
+ {
+  "cpl": 201,
+  "filePath": "src\\server\\domains_gen\\Session.ts",
+  "pos": 2974
+ },
+ {
+  "cpl": 202,
+  "filePath": "src\\server\\domains_gen\\Session.ts",
+  "pos": 3702
+ },
+ {
+  "cpl": 203,
+  "filePath": "src\\server\\domains_gen\\Session.ts",
+  "pos": 4109
+ },
+ {
+  "cpl": 204,
+  "filePath": "src\\server\\domains_gen\\Session.ts",
+  "pos": 4221
+ },
+ {
+  "cpl": 205,
+  "filePath": "src\\server\\domains_gen\\Session.ts",
+  "pos": 4869
+ },
+ {
+  "cpl": 206,
+  "filePath": "src\\server\\domains_gen\\Session.ts",
+  "pos": 5320
+ },
+ {
+  "cpl": 207,
+  "filePath": "src\\server\\domains_gen\\Session.ts",
+  "pos": 6979
+ },
+ {
+  "cpl": 208,
+  "filePath": "src\\server\\domains_gen\\Session.ts",
+  "pos": 7076
+ },
+ {
+  "cpl": 209,
+  "filePath": "src\\server\\domains_gen\\Task.ts",
+  "pos": 2388
+ },
+ {
+  "cpl": 210,
+  "filePath": "src\\server\\domains_gen\\Task.ts",
+  "pos": 3081
+ },
+ {
+  "cpl": 212,
+  "filePath": "src\\server\\domains_gen\\Task.ts",
+  "pos": 3462
+ },
+ {
+  "cpl": 213,
+  "filePath": "src\\server\\domains_gen\\Task.ts",
+  "pos": 3571
+ },
+ {
+  "cpl": 214,
+  "filePath": "src\\server\\domains_gen\\Task.ts",
+  "pos": 4201
+ },
+ {
+  "cpl": 215,
+  "filePath": "src\\server\\domains_gen\\Task.ts",
+  "pos": 4640
+ },
+ {
+  "cpl": 216,
+  "filePath": "src\\server\\domains_gen\\Task.ts",
+  "pos": 5958
+ },
+ {
+  "cpl": 217,
+  "filePath": "src\\server\\domains_gen\\User.ts",
+  "pos": 2263
+ },
+ {
+  "cpl": 218,
+  "filePath": "src\\server\\domains_gen\\User.ts",
+  "pos": 2956
+ },
+ {
+  "cpl": 219,
+  "filePath": "src\\server\\domains_gen\\User.ts",
+  "pos": 3337
+ },
+ {
+  "cpl": 220,
+  "filePath": "src\\server\\domains_gen\\User.ts",
+  "pos": 3446
+ },
+ {
+  "cpl": 221,
+  "filePath": "src\\server\\domains_gen\\User.ts",
+  "pos": 4076
+ },
+ {
+  "cpl": 222,
+  "filePath": "src\\server\\domains_gen\\User.ts",
+  "pos": 4515
+ },
+ {
+  "cpl": 223,
+  "filePath": "src\\server\\domains_gen\\User.ts",
+  "pos": 5908
+ },
+ {
+  "cpl": 224,
+  "filePath": "src\\server\\domains_gen\\Workspace.ts",
+  "pos": 2317
+ },
+ {
+  "cpl": 225,
+  "filePath": "src\\server\\domains_gen\\Workspace.ts",
+  "pos": 3057
+ },
+ {
+  "cpl": 226,
+  "filePath": "src\\server\\domains_gen\\Workspace.ts",
+  "pos": 3472
+ },
+ {
+  "cpl": 227,
+  "filePath": "src\\server\\domains_gen\\Workspace.ts",
+  "pos": 3586
+ },
+ {
+  "cpl": 228,
+  "filePath": "src\\server\\domains_gen\\Workspace.ts",
+  "pos": 4246
+ },
+ {
+  "cpl": 229,
+  "filePath": "src\\server\\domains_gen\\Workspace.ts",
+  "pos": 4705
+ },
+ {
+  "cpl": 230,
+  "filePath": "src\\server\\domains_gen\\Workspace.ts",
+  "pos": 6089
+ },
+ {
+  "cpl": 119,
+  "filePath": "src\\server\\generateMetaHistory.ts",
+  "pos": 2259
+ },
+ {
+  "cpl": 121,
+  "filePath": "src\\server\\ServerEnv.ts",
+  "pos": 2567
+ },
+ {
+  "cpl": 123,
+  "filePath": "src\\server\\ServerEnv.ts",
+  "pos": 3047
+ },
+ {
+  "cpl": 124,
+  "filePath": "src\\server\\ServerEnv.ts",
+  "pos": 3332
+ },
+ {
+  "cpl": 126,
+  "filePath": "src\\server\\ServerEnv.ts",
+  "pos": 3500
+ },
+ {
+  "cpl": 156,
+  "filePath": "src\\server\\ServerEnv.ts",
+  "pos": 3851
+ },
+ {
+  "cpl": 127,
+  "filePath": "src\\server\\ServerEnv.ts",
+  "pos": 4219
+ },
+ {
+  "cpl": 128,
+  "filePath": "src\\server\\ServerEnv.ts",
+  "pos": 4770
+ },
+ {
+  "cpl": 129,
+  "filePath": "src\\server\\ServerEnv.ts",
+  "pos": 5290
+ },
+ {
+  "cpl": 157,
+  "filePath": "src\\server\\ServerEnv.ts",
+  "pos": 5609
+ },
+ {
+  "cpl": 130,
+  "filePath": "src\\server\\ServerEnv.ts",
+  "pos": 5863
+ },
+ {
+  "cpl": 131,
+  "filePath": "src\\server\\ServerEnv.ts",
+  "pos": 5975
+ },
+ {
+  "cpl": 132,
+  "filePath": "src\\server\\ServerEnv.ts",
+  "pos": 6171
+ },
+ {
+  "cpl": 133,
+  "filePath": "src\\server\\ServerEnv.ts",
+  "pos": 6359
+ },
+ {
+  "cpl": 134,
+  "filePath": "src\\server\\ServerEnv.ts",
+  "pos": 6615
+ },
+ {
+  "cpl": 135,
+  "filePath": "src\\server\\ServerEnv.ts",
+  "pos": 6725
+ },
+ {
+  "cpl": 136,
+  "filePath": "src\\server\\ServerEnv.ts",
+  "pos": 6796
+ },
+ {
+  "cpl": 137,
+  "filePath": "src\\server\\ServerEnv.ts",
+  "pos": 7097
+ },
+ {
+  "cpl": 138,
+  "filePath": "src\\server\\ServerEnv.ts",
+  "pos": 7323
+ },
+ {
+  "cpl": 139,
+  "filePath": "src\\server\\users.ts",
+  "pos": 2400
+ },
+ {
+  "cpl": 140,
+  "filePath": "src\\server\\users.ts",
+  "pos": 3486
+ },
+ {
+  "cpl": 28,
+  "filePath": "src\\tests\\should_be_green\\domainCompiler.test.ts",
+  "pos": 2261
+ },
+ {
+  "cpl": 29,
+  "filePath": "src\\tests\\should_be_green\\domainCompiler.test.ts",
+  "pos": 2397
+ },
+ {
+  "cpl": 30,
+  "filePath": "src\\tests\\should_be_green\\domainCompiler.test.ts",
+  "pos": 5158
+ },
+ {
+  "cpl": 31,
+  "filePath": "src\\tests\\should_be_green\\domainCompiler.test.ts",
+  "pos": 5347
+ },
+ {
+  "cpl": 32,
+  "filePath": "src\\tests\\should_be_green\\domainCompiler.test.ts",
+  "pos": 9074
+ },
+ {
+  "cpl": 35,
+  "filePath": "src\\tests\\should_be_green\\domainCompiler.test.ts",
+  "pos": 10005
+ },
+ {
+  "cpl": 36,
+  "filePath": "src\\tests\\should_be_green\\domainCompiler.test.ts",
+  "pos": 17391
+ }
+]
